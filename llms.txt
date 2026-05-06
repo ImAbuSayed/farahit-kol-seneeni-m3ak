@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Farahit Kol Seneeni M3ak |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/farahit-kol-seneeni-m3ak/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Farahit Kol Seneeni M3ak](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
